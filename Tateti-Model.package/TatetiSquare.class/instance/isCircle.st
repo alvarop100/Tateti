@@ -1,0 +1,3 @@
+testing
+isCircle
+	^ value isCircle

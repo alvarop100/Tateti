@@ -1,0 +1,4 @@
+testing
+isClean
+
+self subclassResponsibility 

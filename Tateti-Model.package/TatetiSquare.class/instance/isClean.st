@@ -1,0 +1,4 @@
+testing
+isClean
+
+ ^value isClean 

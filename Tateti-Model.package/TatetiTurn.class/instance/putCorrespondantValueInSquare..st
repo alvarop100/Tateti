@@ -1,0 +1,3 @@
+as yet unclassified
+putCorrespondantValueInSquare: anIndex
+self subclassResponsibility 

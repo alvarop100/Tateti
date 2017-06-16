@@ -1,0 +1,14 @@
+{
+	"category" : "Tateti-Model-Tateti-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GameStatus",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

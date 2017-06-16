@@ -1,0 +1,4 @@
+testing
+isCircle
+
+self subclassResponsibility 

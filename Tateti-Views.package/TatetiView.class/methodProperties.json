@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"defaultSpec" : "Anonymous 9/5/2016 22:50" },
+	"instance" : {
+		"eighthSquare" : "Anonymous 9/5/2016 19:56",
+		"fifthSquare" : "Anonymous 9/5/2016 19:55",
+		"firstSquare" : "Anonymous 9/5/2016 19:54",
+		"fourthSquare" : "Anonymous 9/5/2016 19:55",
+		"initialize" : "Anonymous 9/5/2016 23:03",
+		"initializePresenter" : "Anonymous 6/15/2017 23:24",
+		"initializeWidgets" : "Anonymous 9/5/2016 19:52",
+		"ninthSquare" : "Anonymous 9/5/2016 19:56",
+		"putCorrespondantValueInSquare:" : "Anonymous 6/15/2017 23:22",
+		"secondSquare" : "Anonymous 9/5/2016 19:55",
+		"seventhSquare" : "Anonymous 9/5/2016 19:56",
+		"sixthSquare" : "Anonymous 9/5/2016 19:56",
+		"thirdSquare" : "Anonymous 9/5/2016 19:55" } }

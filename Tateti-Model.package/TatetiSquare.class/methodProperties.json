@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"changeToCircle" : "Alvaro 9/4/2016 18:34",
+		"changeToX" : "Alvaro 9/4/2016 18:28",
+		"changeValueToCircle" : "Anonymous 6/15/2017 23:24",
+		"changeValueToX" : "Anonymous 6/15/2017 23:24",
+		"initialize" : "Alvaro 9/4/2016 18:26",
+		"isCircle" : "Anonymous 9/4/2016 20:14",
+		"isClean" : "Alvaro 9/4/2016 18:08",
+		"isX" : "Anonymous 9/4/2016 20:11",
+		"printOn:" : "Anonymous 9/5/2016 23:50" } }

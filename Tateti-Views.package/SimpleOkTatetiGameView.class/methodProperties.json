@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"defaultSpec" : "Anonymous 6/15/2017 22:13",
+		"finishGameTitled:" : "Anonymous 6/15/2017 23:04",
+		"titled:" : "Anonymous 6/15/2017 23:05" },
+	"instance" : {
+		"closeParentWindowIfFinishingGame" : "Anonymous 6/15/2017 23:06",
+		"initializePresenter" : "Anonymous 6/15/2017 23:06",
+		"initializeTitle:finishingGame:" : "Anonymous 6/15/2017 23:05",
+		"initializeWidgets" : "Anonymous 6/15/2017 22:15",
+		"labelInformation" : "Anonymous 6/15/2017 22:15",
+		"okButton" : "Anonymous 6/15/2017 22:16" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Tateti-Views",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"labelInformation",
+		"okButton",
+		"finishingGame" ],
+	"name" : "SimpleOkTatetiGameView",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

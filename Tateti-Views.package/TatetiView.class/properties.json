@@ -1,0 +1,23 @@
+{
+	"category" : "Tateti-Views",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"firstSquare",
+		"secondSquare",
+		"thirdSquare",
+		"fourthSquare",
+		"fifthSquare",
+		"sixthSquare",
+		"seventhSquare",
+		"eighthSquare",
+		"ninthSquare",
+		"tateti" ],
+	"name" : "TatetiView",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

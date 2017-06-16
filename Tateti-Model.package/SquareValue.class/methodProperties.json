@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"of:" : "Anonymous 9/4/2016 21:01" },
+	"instance" : {
+		"initializeOf:" : "Anonymous 9/4/2016 21:00",
+		"isCircle" : "Anonymous 9/4/2016 21:01",
+		"isClean" : "Anonymous 9/4/2016 21:01",
+		"isX" : "Anonymous 9/4/2016 21:02",
+		"printOn:" : "Anonymous 9/5/2016 23:51",
+		"tryToChangeToCircle" : "Anonymous 6/15/2017 23:01",
+		"tryToChangeToX" : "Anonymous 6/15/2017 23:02" } }

@@ -1,0 +1,3 @@
+testing
+isX
+	^value isX

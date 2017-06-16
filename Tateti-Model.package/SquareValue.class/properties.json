@@ -1,0 +1,14 @@
+{
+	"category" : "Tateti-Model-Tateti-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"context" ],
+	"name" : "SquareValue",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

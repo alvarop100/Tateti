@@ -1,0 +1,14 @@
+{
+	"category" : "Tateti-Model-Tateti-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"context" ],
+	"name" : "TatetiTurn",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

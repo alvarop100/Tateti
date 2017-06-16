@@ -1,0 +1,4 @@
+testing
+isX
+
+self subclassResponsibility 

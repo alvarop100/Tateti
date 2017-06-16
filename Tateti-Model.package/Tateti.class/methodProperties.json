@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"anyColumnFullWithCircle" : "Anonymous 9/4/2016 21:13",
+		"anyColumnFullWithX" : "Anonymous 9/4/2016 20:59",
+		"anyDiagonalFullWithCircle" : "Anonymous 9/4/2016 21:13",
+		"anyDiagonalFullWithX" : "Anonymous 9/4/2016 20:54",
+		"anyRowFullWithCircle" : "Anonymous 9/4/2016 21:14",
+		"anyRowFullWithX" : "Anonymous 9/4/2016 20:57",
+		"changeToCircleTurn" : "Anonymous 9/5/2016 23:49",
+		"changeToXTurn" : "Anonymous 9/5/2016 23:49",
+		"changeTurn" : "Anonymous 9/5/2016 23:07",
+		"circleWon" : "Anonymous 9/5/2016 23:36",
+		"initialize" : "Anonymous 9/5/2016 23:04",
+		"isClean" : "Alvaro 9/4/2016 18:07",
+		"isFull" : "Anonymous 9/4/2016 20:35",
+		"putCircleInSquare:" : "Alvaro 9/4/2016 18:31",
+		"putCorrespondantValueInSquare:" : "Anonymous 9/5/2016 23:25",
+		"putXInSquare:" : "Alvaro 9/4/2016 18:18",
+		"someoneWOn" : "Anonymous 9/5/2016 23:36",
+		"squareNumber:" : "Anonymous 9/4/2016 20:10",
+		"verifyIfSomeWonOrGameEnded" : "Anonymous 9/5/2016 23:32",
+		"xWon" : "Anonymous 9/5/2016 23:36" } }
