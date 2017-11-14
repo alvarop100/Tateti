@@ -1,3 +1,3 @@
-# Tateti
+# TicTacToe
 
-	Simple Tateti Game made in  Pharo Smalltalk using Spec for views.
+	Simple TicTacToe Game made in  Pharo Smalltalk using Spec for views.
